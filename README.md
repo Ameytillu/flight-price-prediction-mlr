@@ -2,11 +2,6 @@
 
 This project demonstrates how to build a Multiple Linear Regression (MLR) model to predict flight ticket prices based on various features extracted from a dataset. The project involves data preprocessing, exploratory data analysis (EDA), model training, evaluation, and interpretation.
 
-## Project Structure
-
-- `MLR.html`: Exported Jupyter Notebook (HTML format) containing the complete analysis and model-building process.
-- `README.md`: Project overview and documentation (this file).
-
 ## Dataset Overview
 
 The dataset contains historical flight ticket data, with features like:
