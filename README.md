@@ -42,7 +42,7 @@ EDA was conducted to understand the data distribution and relationships among va
 
 The MLR model provided a baseline understanding of how flight prices are influenced by a few key variables. The residuals were reasonably distributed, indicating a decent model fit.
 
-## 🛠Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
